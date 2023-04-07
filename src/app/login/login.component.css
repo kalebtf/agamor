@@ -1,0 +1,13 @@
+.form-background {
+  background-color: rgba(255, 255, 255, 0.4); /* Adjust the last value (0.7) to control transparency */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.form-background label {
+  font-size: 1.2rem; /* Adjust the size as needed */
+  font-weight: bold;
+}
+
+
+
